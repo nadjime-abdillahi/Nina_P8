@@ -42,9 +42,13 @@ body {
   width: 20px;
 }
 
+.ButtonContraste {
+
+  visibility: hidden;
+}
+
 .contraste {
   background-color: rgb(0, 0, 0);
-  visibility: hidden;
 }
 
 #about {
